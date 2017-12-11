@@ -4,4 +4,4 @@ function sayThatWasEasy() {
   thatWasEasy.play();
 }
 
-$("#easy").on("click", sayThatWasEasy());
+$("#easy").on("click", sayThatWasEasy);
